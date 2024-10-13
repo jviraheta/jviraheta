@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on building communities in bioinformatics and data analytics 
 - 📫 How to reach me [![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/jesus-iraheta/)  
-😄 Pronouns: He/Him  
 - 😄 Pronouns: He/Him
 
 <!---
