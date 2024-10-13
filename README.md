@@ -2,7 +2,8 @@
 - 👀 I’m an undergraduate student interested in genomics research
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on building communities in bioinformatics and data analytics 
-- 📫 How to reach me [LinkedIn]([www.linkedin.com/in/jesus-iraheta](https://www.linkedin.com/in/jesus-iraheta/))
+- 📫 How to reach me [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/jesus-iraheta/)
+&nbsp;
 - 😄 Pronouns: He/Him
 
 <!---
